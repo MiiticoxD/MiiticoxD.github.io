@@ -1,0 +1,9 @@
+# Education Template
+- layout: left
+  name: Universidade do Estado de Minas Gerais
+  dates: 2016 - 2019
+  qualification: Ciências Biológicas - Bacharelado
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+#    Description of qualification

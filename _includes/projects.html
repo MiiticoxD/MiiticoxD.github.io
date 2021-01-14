@@ -1,0 +1,7 @@
+<div class="container projects-container">
+  <h3>{{ site.projects_title | default: "Projetos" }}</h3>
+  {% for project in site.data.projects %}
+    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+  {% endfor %}
+</p><p><center><img src="images/eeji2.jpg" alt="bla" style="width:200px;height:200px;" /></center></p>
+</div>

@@ -1,0 +1,43 @@
+# Experience template
+- layout: left
+  company: Zênite Arte e Cultura
+  link: znt.ar.br
+  job_title: Pesquisador de projeto
+  dates: Agosto 2020 - Atual
+# quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+   - Trabalho atualmente como biólogo e pesquisador no projeto Eterna Juventude  idealizado pela produtora Zênite Arte e Cultura. 
+    O projeto tem como objetivo retratar a Estação Ecologica Juréia-Itatins atravez de uma webserie na qual vai abranger 
+    temas de educação ambiental, apresentação da fauna e flora local, além de retratar o cotidiano das populações locais.
+#
+
+- layout: left
+  company: Clínica Veterinária VetSolo
+  link: http://instagr.am/vetsolo_medicina_veterinaria/
+  job_title: Auxiliar
+  dates: Janeiro/2020 – Maio/2020
+# quote: >
+#   Clínica Veterinária VetSolo
+  description: | # this will include new lines to allow paragraphs
+   - Auxiliar
+#
+- layout: left
+  company: Universidade do Estado de Minas Gerais
+  link: http://uemg.br/
+  job_title: Estagiário – Gestão Ambiental
+  dates: Junho/2019 – Dezembro/2019
+# quote: >
+  description: | # this will include new lines to allow paragraphs
+    - Acompanhei projetos realizados pelos alunos e professores, realização de estudos de casos 
+    relacionada à perícia e licenciamento ambiental.
+#
+- layout: left
+  company: HABITAT Loteamentos
+  link: http://habitatloteamentos.com.br/home
+  job_title: Estagiário
+  dates: 
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Participei da equipe acompanhando projetos em andamento pela empresa
