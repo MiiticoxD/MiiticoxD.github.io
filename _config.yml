@@ -27,7 +27,7 @@ linkedin_username: christianangelideassiz
 # about_title: Sobre Mim (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Sou **Christian Assiz**, biólogo com experiência em ecologia e herpetologia.
+  Biólogo em busca de uma nova oportunidade de trabalho na área. Tenho conhecimentos em ecologia e preservação de espécie, para realizar avaliações de impacto ambiental e inventário de fauna e flora. ExperiÊncia em realizar mapas pra Sistemas Integrado de Georeferenciamento e trabalhos que necessitam desenvolver mapas aeroespacial para diversos propósitos.  
  
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 
@@ -44,7 +44,9 @@ logo2: Empresa 2
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-
+    - **Curso** "Manejo de Fauna Silvestre e Exótica | *IBIMM - Instituto de Biologia Marinha e Meio Ambiente* 
+    - **Curso** "Biologia Marinha e Ecossistemas Costeiros" | *UNESP - Núcleo de Estudos em Biologia, Ecologia e Cultivo de Crustáceos*
+    - **Curso** "Sistema de Informações Geográficas" | *Universidade do Estado de Minas Gerais*
 # Footer
 footer_show_references: true
 

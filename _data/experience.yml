@@ -14,7 +14,7 @@
 
 - layout: left
   company: Clínica Veterinária VetSolo
-  link: http://instagr.am/vetsolo_medicina_veterinaria/
+  link: instagr.am/vetsolo_medicina_veterinaria/
   job_title: Auxiliar
   dates: Janeiro/2020 – Maio/2020
 # quote: >
@@ -24,7 +24,7 @@
 #
 - layout: left
   company: Universidade do Estado de Minas Gerais
-  link: http://uemg.br/
+  link: uemg.br/
   job_title: Estagiário – Gestão Ambiental
   dates: Junho/2019 – Dezembro/2019
 # quote: >
@@ -34,7 +34,7 @@
 #
 - layout: left
   company: HABITAT Loteamentos
-  link: http://habitatloteamentos.com.br/home
+  link: habitatloteamentos.com.br
   job_title: Estagiário
   dates: 
 #  quote: >
